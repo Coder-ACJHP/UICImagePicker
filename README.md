@@ -1,4 +1,4 @@
-# CoderImagePicker
+# UICImagePicker
 Custom image picker as pop-up, written by Swift 4+, it can trigger by button or swiping to up from handle area in this example I changed th pop-up .collapsed position to out screen so you can change it easly with changing cardView start poisition to ```self.view.height - cardView.handleArea.height```etc.
 
 All movements animated userInteractive with ```UIViewPropertyAnimator()```.
